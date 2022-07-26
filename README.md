@@ -1,16 +1,17 @@
-# todo_app_task2
+# **Todo app**
 
-A new Flutter project.
+I have made this app with clean architecture and I used cubit as state management at the presentation layer.
 
-## Getting Started
+## What you can do with this app
 
-This project is a starting point for a Flutter application.
+With this app ypu can add your todo list and what the time that this task will start on it. Then the app will remind you ahead of time for a number of minutes that you specify and you will more in the video : [video for the app](https://drive.google.com/drive/folders/1ZM1khCUl41XkvAvE1xh7gIaTrxYBGol4?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="https://github.com/MOHAB28/algoriza_phase_1/blob/main/screenshots/1.jpg" width="200" height="400" />
+<img src="https://github.com/MOHAB28/algoriza_phase_1/blob/main/screenshots/2.jpg" width="200" height="400" />
+<img src="https://github.com/MOHAB28/algoriza_phase_1/blob/main/screenshots/3.jpg" width="200" height="400" />
+<img src="https://github.com/MOHAB28/algoriza_phase_1/blob/main/screenshots/4.jpg" width="200" height="400" />
+<img src="https://github.com/MOHAB28/algoriza_phase_1/blob/main/screenshots/5.jpg" width="200" height="400" />
+<img src="https://github.com/MOHAB28/algoriza_phase_1/blob/main/screenshots/6.jpg" width="200" height="400" />
+<img src="https://github.com/MOHAB28/algoriza_phase_1/blob/main/screenshots/7.jpg" width="200" height="400" />
+<img src="https://github.com/MOHAB28/algoriza_phase_1/blob/main/screenshots/8.jpg" width="200" height="400" />
